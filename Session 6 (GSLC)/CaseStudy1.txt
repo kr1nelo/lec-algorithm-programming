@@ -1,0 +1,18 @@
+1. Explain how  operators and operands work in your chosen programing language (e.g., Phyton, Java, C, or C++)
+	Dalam Bahasa C (Bahasa yang saya gunakan untuk pemrograman sekarang) terdapat istilah operand dan operator
+
+	Operand adalah istilah lain dari variable
+	Operator adalah istilah lain dari symbol yang digunakan untuk melakukan operasi (membandingkan atau menghitung) antara satu 	operand/variable dengan operand/variable lainnya
+
+2. Use arithmetic operators (addition, subtraction, multiplication, and divison) to solve the case above
+	Penggunaan operator aritmatika diatas adalah sebagai berikut :
+
+	+ pemjumlahan : walaupun tidak saya gunakan dalam kasus diatas, namun bisa digunakan apabila mau menghitung total pendapatan dan 	pengeluaran jika diperlukan
+	- pengurangan : saya menggunakan operator aritmatika pengurangan pada kasus diatas untuk menghitung sisa dana setelah pengeluaran
+	* perkalian : saya tidak menggunakan operator perkalian pada kasus di atas, tetapi perkalian bisa saya gunakan apabila ingin 	menghitung total pengeluaran dalam beberapa bulan
+	/ pembagian : saya menggunakan operator aritmatika pembagian pada kasus diatas untuk menghitung rata-rata pengeluaran harian
+
+3. Are the other operators that could be useful for this case? For example, modulus or other operators?
+	Tentu, ada operator lain yang bisa digunakan juga dalam menyelesaikan kasus diatas jika diminta, seperti :
+
+	% modulus : Operator aritmatika modulus bisa saya gunakan jika ingin menghitung sisa pembagian, misalnya menghitung sisa uang dalam 	denominasi tertentu

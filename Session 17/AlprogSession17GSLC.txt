@@ -1,0 +1,29 @@
+1. Laravel
+   - A PHP framework with elegant syntax.  
+   - Supports MVC, ORM (Eloquent), and Blade template engine.  
+
+2. Core PHP
+   - Without a framework, it provides maximum control, flexibility, and faster performance but is vulnerable to security risks.  
+   - Suitable for simple projects.  
+
+3. Creating Forms in Core PHP 
+   - Basic form elements: text input, radio button, submit button, textarea, button, and dropdown (select).  
+
+4. Dynamic Web in Core PHP
+   - Dynamic web pages can display different content for different users.  
+
+5. PHP Data Types 
+   - Includes string, integer, float, boolean, array, and object.  
+
+6. Validation in PHP
+   - Server-side validation is essential for security and data integrity.  
+   - Techniques include sanitization, validation rules, and error management using PHP built-in functions like `filter_var()`.  
+
+7. SQL
+   - The standard language for accessing and manipulating databases using RDBMS such as MySQL.  
+
+8. Database Design
+   - The process of planning and creating a structure to manage data efficiently.  
+
+9. CRUD
+   - Basic database operations: Create, Read, Update, and Delete.
